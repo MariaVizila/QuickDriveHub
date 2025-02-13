@@ -24,4 +24,4 @@ local Section6 = Tab6.NewSection("Section 6")
 local Notify = loadstring(game:HttpGet("https://raw.githubusercontent.com/laagginq/ui-libraries/main/dxhooknotify/src.lua", true))()
 
 -- Custom Notifications
-Notify:Notify("Welcome to Test Hub", "Test Hub Is Loading! Enjoy!", 10)
+Notify:Notify("Welcome to Test Hub", "Test Hub Has Loaded! Enjoy!", 10)
