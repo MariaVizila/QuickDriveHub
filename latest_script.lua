@@ -5,7 +5,7 @@ local Window = Library.Main("Test Hub", "C") -- Change "C" to the key you want t
 local Notify = loadstring(game:HttpGet("https://raw.githubusercontent.com/laagginq/ui-libraries/main/dxhooknotify/src.lua", true))()
 
 -- Custom Notifications
-Notify:Notify("Welcome to Test Hub", "You are now using Test Hub! Have Fun!", 10)
+Notify:Notify("Welcome to Test Hub", "Test Hub Is Loading! Enjoy!", 10)
 
 -- Tabs & Sections (Using Unique Variable Names)
 local Tab1 = Window.NewTab("Tab 1")
