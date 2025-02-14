@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/slf0Dev/Ocerium_Project/main/Library.lua"))()
-local Window = Library.Main("Test Hub", "C") -- Change "C" to the key you want to hide the GUI
+local Window = Library.Main("QuickDrive Hub", "C") -- Change "C" to the key you want to hide the GUI
 
 -- Tabs & Sections (Using Unique Variable Names)
 local Tab1 = Window.NewTab("Tab 1")
